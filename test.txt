@@ -1,0 +1,3 @@
+branch adalah jalur untuk menclone main atau repo nya 
+pull request adalah untuk menggabungkan file
+commite untuk upload perubahan file
