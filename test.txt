@@ -2,3 +2,4 @@ branch adalah jalur untuk menclone main atau repo nya
 pull request adalah untuk menggabungkan file
 commite untuk upload perubahan file
 branches untuk mengdelete perubahan pada file
+fork adalah mengcopy file orang lain dengan menambahkan watermark
